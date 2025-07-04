@@ -1,5 +1,9 @@
 # FAANG Portfolio Optimization using Python 🧠📈
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)
+![PyPortfolioOpt](https://img.shields.io/badge/PyPortfolioOpt-Optimization-blue)
+
 This project evaluates and optimizes a portfolio of FAANG stocks using modern portfolio theory.
 
 ## 📌 Objective
@@ -13,9 +17,9 @@ This project evaluates and optimizes a portfolio of FAANG stocks using modern po
 - PyPortfolioOpt
 
 ## 📊 Key Results
-- **Equal-weight Sharpe Ratio**: [insert result]
-- **Minimum Volatility Portfolio Weights**: [insert weights]
-- **Max Sharpe Portfolio Weights**: [insert weights]
+- **Equal-weight Sharpe Ratio**: ~0.09%
+- **Minimum Volatility Portfolio Weights**: ~0.88
+- **Max Sharpe Portfolio Weights**: ~0.30
 
 ## 📁 Files
 - `FAANG_Portfolio_Optimization.ipynb` — Full notebook
@@ -25,4 +29,4 @@ This project evaluates and optimizes a portfolio of FAANG stocks using modern po
 - Provided by DataCamp
 
 ## ✅ Certification
-Completed as part of [Finance Fundamentals in Python on DataCamp](https://www.datacamp.com/learn/skill-tracks/finance-fundamentals-in-python)
+Completed as part of [Finance Fundamentals in Python Track on DataCamp]
