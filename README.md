@@ -17,9 +17,27 @@ This project evaluates and optimizes a portfolio of FAANG stocks using modern po
 - PyPortfolioOpt
 
 ## 📊 Key Results
-- **Equal-weight Sharpe Ratio**: ~0.09%
-- **Minimum Volatility Portfolio Weights**: ~0.88
-- **Max Sharpe Portfolio Weights**: ~0.30
+### 📈 Equal-weight Portfolio
+- **Expected Daily Return**: `0.0009366970530650012`
+- **Annualized Sharpe Ratio (Rf = 0%)**: `0.7221868020795013`
+
+### 🔒 Minimum Volatility Portfolio
+AAPL 0.39842
+AMZN 0.14911
+GOOGL 0.38290
+META 0.00000
+NFLX 0.06957
+
+- **Annualized Volatility**: `0.3030736711547463`
+
+### 🚀 Maximum Sharpe Ratio Portfolio
+AAPL 0.78744
+AMZN 0.00000
+GOOGL 0.19970
+META 0.00000
+NFLX 0.01286
+
+- **Annualized Sharpe Ratio**: `0.8821809421501468`
 
 ## 📁 Files
 - `FAANG_Portfolio_Optimization.ipynb` — Full notebook
